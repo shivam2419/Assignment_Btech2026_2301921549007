@@ -5,7 +5,7 @@
 <p>3.</p>
 
 <h2>Coding platform used</h2>
-<p>1. Question source : [leetcode](https://leetcode.com/discuss/interview-question/3828150/OOPS-Cheatsheet-for-Interviews-or-30-questions)</p>
+<p>1. Question source : (https://leetcode.com/discuss/interview-question/3828150/OOPS-Cheatsheet-for-Interviews-or-30-questions)</p>
 <p>2.</p>
 <p>3.</p>
 
