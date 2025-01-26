@@ -17,6 +17,6 @@
 <img src="https://github.com/user-attachments/assets/7c5436da-2ede-4aae-aa3b-c0e5261cd6c3">
 <h3>Program Table</h3>
 <img src="https://github.com/user-attachments/assets/13cf2faf-79d1-4245-9716-50915106eb0f">
-<h4>Scholarship Table</h4>
+<h3>Scholarship Table</h3>
 <img src="https://github.com/user-attachments/assets/a5910cb6-7a6f-409b-afa4-01c46cdea418">
 
